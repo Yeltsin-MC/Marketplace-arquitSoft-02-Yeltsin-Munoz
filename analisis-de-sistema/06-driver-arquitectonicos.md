@@ -9,3 +9,4 @@
 | DA05 | Utilizar una API REST entre la aplicación web y el backend. | RC03 - API REST | Define la forma de comunicación entre la interfaz y la lógica de negocio. |
 | DA06 | Integrarse con un servicio de envío externo. | RC05 - Servicio de envío | Requiere definir cómo se intercambia la información de entrega. |
 | DA07 | Organizar la propuesta inicial en tres capas. | RC06 - Arquitectura en tres capas | Determina la separación de responsabilidades entre presentación, negocio y datos. |
+| DA08 | Permitir modificar funcionalidades sin afectar innecesariamente otros módulos. | AC05 - Mantenibilidad | Influye en la separación de responsabilidades, modularidad y dependencias internas. |
